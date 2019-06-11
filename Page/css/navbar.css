@@ -1,0 +1,51 @@
+navbars
+
+.navbar-inverse {
+    background-color: #222;
+    border-color: #080808;
+}
+.navbar {
+    border-radius: 4px;
+}.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: auto;
+    border: 1px solid transparent;
+        border-top-color: transparent;
+        border-right-color: transparent;
+        border-bottom-color: transparent;
+        border-left-color: transparent;
+        display: block;
+}
+
+
+carrusel
+
+#cuerpo{ background-image: url(../images/12.jpg);
+width: auto;
+	height: auto;}
+
+#img1{
+	width: 100%;
+	height:450px;
+}
+#formulario{
+	float:center;
+	padding: 100px;
+	margin-left: 400px;
+	width: 500px;
+
+}
+
+#formulpro{
+	float: center;
+	padding: 100px;
+	margin:0;
+	margin-left: 400px;
+	width: 500px;
+	height: auto;
+	margin-bottom: 100px;
+
+
+ background-color: #F5F5F5;
+}

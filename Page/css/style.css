@@ -1,0 +1,36 @@
+
+	table { 
+		width: 100%; 
+		border-collapse: collapse; 
+	}
+	/* Zebra striping */
+	tr:nth-of-type(odd) { 
+		background: #eee; 
+
+	}
+	th { 
+		background: #ccc; 
+		color: black; 
+		font-weight: bold;
+
+	}
+	td, th { 
+		background: #ccc; 
+		padding: 6px; 
+		border: 1px solid black; 
+		text-align: left; 
+		width: auto;
+		height: 20px;
+	}
+#uno{
+	height: 50px;
+}
+#jumb{
+	background-image:url("../images/jumbo.jpg");
+	width: auto;
+	height: auto;
+}
+
+#cp{
+	background-color: 
+}
